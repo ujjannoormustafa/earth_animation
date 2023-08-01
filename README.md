@@ -1,3 +1,4 @@
+![Screenshot (23)](https://github.com/ujjannoormustafa/earth-animation/assets/128189991/84caf559-5e5b-4d67-af50-a4adf2eb10d7)
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
