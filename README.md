@@ -1,6 +1,7 @@
 # earth_animation
 I created Earth rotate in the space animation in Nextjs
-![Screenshot (23)](https://github.com/ujjannoormustafa/earth-animation/assets/128189991/84caf559-5e5b-4d67-af50-a4adf2eb10d7)
+![Screenshot (23)](https://github.com/ujjannoormustafa/earth_animation/assets/128189991/ee70ddbb-951e-469b-8ec6-7063327e36ee)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
